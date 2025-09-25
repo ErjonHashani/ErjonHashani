@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Erjon Hashani 
+# Erjon Hashani 
 
 > **Currently debugging my life choices and this function**
 
