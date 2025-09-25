@@ -2,7 +2,7 @@
 
 # 👨‍💻 Erjon Hashani 
 
-> 🚀 **Currently debugging my life choices and this function**
+> **Currently debugging my life choices and this function**
 
 ### **Full-Stack Developer & Digital Craftsman**
 I build modern, performant web applications with React, Next.js, Node.js, and MongoDB.
