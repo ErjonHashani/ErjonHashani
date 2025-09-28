@@ -28,7 +28,7 @@ I am currently developing an ongoing full-stack platform for an architecture fir
 - **Responsive Design:** Optimized viewing experience across all devices
 - **Performance Optimized:** Fast loading times and smooth animations
 
-**🛠️ Tech Stack:** Next.js · TypeScript · TailwindCSS · MongoDB · NextAuth
+**🛠️ Tech Stack:** Next.js · TypeScript · TailwindCSS · MongoDB · Mongoose · Auth.js
 
 ---
 
