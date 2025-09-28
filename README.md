@@ -17,7 +17,7 @@ I build modern, performant web applications with React, Next.js, Node.js, and Mo
 
 ### 🚀 Featured Project: BH Studio Architecture
 
-I recently developed a comprehensive full-stack platform for an architecture firm, showcasing my ability to deliver professional business solutions.
+I am currently developing an ongoing full-stack platform for an architecture firm, showcasing my ability to deliver professional business solutions.
 
 **🔗 Live Demo:** [bh-studio.vercel.app](https://bh-studio.vercel.app/)
 
