@@ -15,20 +15,20 @@ I build modern, performant web applications with React, Next.js, Node.js, and Mo
 
 ---
 
-### 🚀 Featured Project: BH Studio Architecture
+### 🚀 Featured Project: MyDash — Personal Dashboard System
 
-I am currently developing an ongoing full-stack platform for an architecture firm, showcasing my ability to deliver professional business solutions.
+I’m currently developing **MyDash**, a sleek full-stack dashboard system designed for productivity, analytics, and workflow management in one place.
 
-**🔗 Live Demo:** [bh-studio.vercel.app](https://bh-studio.vercel.app/)
+**🔗 Live Preview:** [mydash.vercel.app](https://mydash.vercel.app)
 
 **🌟 Key Features:**
-- **Modern Portfolio Showcase:** Elegant display of architectural projects with high-quality images and descriptions
-- **Client Inquiry System:** Integrated contact forms with professional email notifications
-- **Admin Dashboard:** Secure content management system for updating projects and managing inquiries
-- **Responsive Design:** Optimized viewing experience across all devices
-- **Performance Optimized:** Fast loading times and smooth animations
+- **Modular Dashboard:** Customizable widgets and panels for analytics and tasks  
+- **Dynamic Theming:** Multi-theme system including light, dark, and blue-themed modes  
+- **Responsive Design:** Optimized for desktop, tablet, and mobile devices  
+- **Fast & Smooth:** Performance-focused UI with modern animations  
+- **Documentation Ready:** Easily extendable content and feature guides  
 
-**🛠️ Tech Stack:** Next.js · TypeScript · TailwindCSS · MongoDB · Mongoose · Auth.js
+**🛠️ Tech Stack:** Next.js 15 · TypeScript · TailwindCSS · shadcn/ui
 
 ---
 
