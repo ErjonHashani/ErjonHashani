@@ -23,7 +23,7 @@ I’m currently developing **MyDash**, a sleek full-stack dashboard system desig
 
 **🌟 Key Features:**
 - **Modular Dashboard:** Customizable widgets and panels for analytics and tasks  
-- **Dynamic Theming:** Multi-theme system including light, dark, and blue-themed modes  
+- **Dynamic Theming:** Multi-theme system including light, dark, and color-themed modes  
 - **Responsive Design:** Optimized for desktop, tablet, and mobile devices  
 - **Fast & Smooth:** Performance-focused UI with modern animations  
 - **Documentation Ready:** Easily extendable content and feature guides  
