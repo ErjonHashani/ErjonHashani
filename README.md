@@ -5,7 +5,7 @@
 > **Currently debugging my life choices and this function**
 
 ### **Full-Stack Developer & Digital Craftsman**
-I build modern, performant web applications with React, Next.js, Node.js, and MongoDB.
+I build modern, performant web applications with React, Next.js, Node.js(Express.js), and MongoDB.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erjon-hashani)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ok_Salamander9336)
