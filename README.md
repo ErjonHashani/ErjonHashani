@@ -71,7 +71,7 @@ I’m currently developing **MyDash**, a sleek full-stack dashboard system desig
 
 <div align="center">
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erjonhashani&layout=compact&theme=radical)
+![Erjon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErjonHashani&theme=radical&hide_border=true)
 
 </div>
 
