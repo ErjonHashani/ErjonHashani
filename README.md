@@ -71,7 +71,7 @@ I’m currently developing **MyDash**, a sleek full-stack dashboard system desig
 
 <div align="center">
   
-![Erjon's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ErjonHashani&theme=radical&hide_border=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErjonHashani)](https://github.com/ErjonHashani/github-readme-activity-graph)
 
 </div>
 
