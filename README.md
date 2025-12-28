@@ -71,7 +71,7 @@ I’m currently developing **MyDash**, a sleek full-stack dashboard system desig
 
 <div align="center">
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErjonHashani)](https://github.com/ErjonHashani/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErjonHashani&theme=react)](https://github.com/ErjonHashani/github-readme-activity-graph)
 
 </div>
 
