@@ -41,10 +41,11 @@ I’m currently developing **MyDash**, a sleek full-stack dashboard system desig
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend:**  
 [![Node.js](https://img.shields.io/badge/Node.js-18.x-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
 ![Next.js API](https://img.shields.io/badge/Next.js_API-000000?style=flat&logo=next.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
@@ -61,6 +62,7 @@ I’m currently developing **MyDash**, a sleek full-stack dashboard system desig
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
+| **MyDash** | Full-stack dashboard system designed for productivity, analytics, and workflow management in one place | Next.js, Express.js, MongoDB, PostgreSQL, Better-Auth | [View Live](https://mydashenterprise.vercel.app) |
 | **ContractorHQ** | Full-stack e-commerce for construction tools | Next.js, TypeScript, MongoDB, NextAuth | [View Live](https://contractor-hq.vercel.app) |
 | **MyMovieShop** | Movie discovery platform with TMDB API | HTML5, JavaScript, TailwindCSS | [View Live](https://erjonhashani.github.io/MyMovieShop/) |
 | **BirdGame** | 2D physics-based bird game | Unity, C# | [Watch Demo](https://youtube.com/watch?v=5806PCnyOBI) |
