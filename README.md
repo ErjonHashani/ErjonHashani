@@ -19,7 +19,7 @@ Focused on building production-grade full-stack applications leveraging React/Ne
 
 I’m currently developing **Bundu Task App**, a high-performance full-stack task management system designed to simplify complex workflows with a sleek, developer-centric interface.
 
-**🔗 Live Preview:** [bundutask.site](https://bunduapp.site)
+**🔗 Live Preview:** [bunduapp.site](https://bunduapp.site)
 
 **🌟 Key Features:**
 - **Full-Stack Task Management:** Robust CRUD operations powered by Next.js 16 and Express.js
