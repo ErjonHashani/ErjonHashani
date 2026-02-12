@@ -19,7 +19,7 @@ Focused on building production-grade full-stack applications leveraging React/Ne
 
 I’m currently developing **Bundu App**, a high-performance full-stack task & schedule management system designed to simplify complex workflows with a sleek, developer-centric interface.
 
-**🔗 Live Preview:** [bunduapp.site](https://bunduapp.site)
+**Live Preview:** [bunduapp.site](https://bunduapp.site)
 
 **Key Features:**
 - **Full-Stack Task Management:** Robust CRUD operations powered by Next.js 16 and Express.js
@@ -28,7 +28,7 @@ I’m currently developing **Bundu App**, a high-performance full-stack task & s
 - **Real-time Data:** Efficient database modeling with Mongoose and MongoDB for instant task updates
 - **Scalable Architecture:** Optimized for deployment on Vercel and Render for maximum uptime
 
-**🛠️ Tech Stack:** Next.js 16 · Express.js · TypeScript · MongoDB · TailwindCSS · shadcn/ui
+**Tech Stack:** Next.js 16 · Express.js · TypeScript · MongoDB · TailwindCSS · shadcn/ui
 
 ---
 
@@ -61,7 +61,7 @@ I’m currently developing **Bundu App**, a high-performance full-stack task & s
 
 ---
 
-### 📌 Other Notable Projects
+### Other Notable Projects
 
 | Project | Description | Tech Stack | Live Demo |
 |---------|-------------|------------|-----------|
@@ -72,7 +72,7 @@ I’m currently developing **Bundu App**, a high-performance full-stack task & s
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   
@@ -82,7 +82,7 @@ I’m currently developing **Bundu App**, a high-performance full-stack task & s
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect!
 
 - 💼 **LinkedIn:** [linkedin.com/in/erjon-hashani](https://linkedin.com/in/erjon-hashani)
 - 📧 **Email:** [erjonndev@gmail.com](mailto:erjonndev@gmail.com)
