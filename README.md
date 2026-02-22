@@ -17,7 +17,7 @@ Focused on building production-grade full-stack applications leveraging React/Ne
 
 ### Featured Project: Bundu Task App — Streamlined Productivity
 
-I’m currently developing **Bundu App**, a high-performance full-stack task & schedule management system designed to simplify complex workflows with a sleek, developer-centric interface.
+I’m currently developing **Bundu App**, a high-performance full-stack event & schedule management system designed to simplify complex workflows with a sleek, developer-centric interface.
 
 **Live Preview:** [bunduapp.site](https://bunduapp.site)
 
@@ -25,7 +25,7 @@ I’m currently developing **Bundu App**, a high-performance full-stack task & s
 - **Full-Stack Task Management:** Robust CRUD operations powered by Next.js 16 and Express.js
 - **Advanced Auth Integration:** Secure, multi-provider authentication using BetterAuth
 - **Fluid UI/UX:** Built with shadcn/ui and TailwindCSS for a premium, responsive feel
-- **Real-time Data:** Efficient database modeling with Mongoose and MongoDB for instant task updates
+- **Real-time Data:** Efficient database modeling with Mongoose and MongoDB for instant event updates
 - **Scalable Architecture:** Optimized for deployment on Vercel and Render for maximum uptime
 
 **Tech Stack:** Next.js 16 · Express.js · TypeScript · MongoDB · TailwindCSS · shadcn/ui
