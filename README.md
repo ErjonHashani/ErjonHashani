@@ -15,7 +15,7 @@ Focused on building production-grade full-stack applications leveraging React/Ne
 
 ---
 
-### Featured Project: Bundu Task App — Streamlined Productivity
+### Featured Project: Bundu App — Streamlined Productivity
 
 I’m currently developing **Bundu App**, a high-performance full-stack event & schedule management system designed to simplify complex workflows with a sleek, developer-centric interface.
 
