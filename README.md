@@ -67,7 +67,7 @@ I’m currently developing **Bundu App**, a high-performance full-stack event & 
 |---------|-------------|------------|-----------|
 | **MyDash** | Full-stack dashboard system designed for productivity, analytics, and workflow management in one place | Next.js, Express.js, MongoDB, Better-Auth | [View Live](https://mydashenterprise.vercel.app) |
 | **ContractorHQ** | Full-stack e-commerce for construction tools | Next.js, TypeScript, MongoDB, NextAuth | [View Live](https://contractor-hq.vercel.app) |
-| **MyMovieShop** | Movie discovery platform with TMDB API | HTML5, JavaScript, TailwindCSS | [View Live](https://erjonhashani.github.io/MyMovieShop/) |
+| **MyMovieShop** | Movie discovery platform with TMDB API | HTML5, JavaScript, TailwindCSS, REST API | [View Live](https://erjonhashani.github.io/MyMovieShop/) |
 | **BirdGame** | 2D physics-based bird game | Unity, C# | [Watch Demo](https://youtube.com/watch?v=5806PCnyOBI) |
 
 ---
